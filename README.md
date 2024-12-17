@@ -1,9 +1,3 @@
-## 👋 Hi, I'm Francesco Tomasi  
-- 🎓 Mathematical Engineering student @ Politecnico di Milano  
-- 💻 Skills: Python, R, C++, HTML/CSS  
-- 🚀 Interested in Machine Learning, Non-linear Systems, and Web Development  
-- 📫 How to reach me: [LinkedIn][http://www.linkedin.com/in/francescotomasi01], francescotomasi01@gmail.com  
-
 # 👋 Hi, I'm Francesco Tomasi  
 
 🎓 **Mathematical Engineering student** at *Politecnico di Milano*.  
