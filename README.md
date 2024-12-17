@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi, I'm Francesco Tomasi  
+- 🎓 Mathematical Engineering student @ Politecnico di Milano  
+- 💻 Skills: Python, R, C++, HTML/CSS  
+- 🚀 Interested in Machine Learning, Non-linear Systems, and Web Development  
+- 📫 How to reach me: [LinkedIn][http://www.linkedin.com/in/francescotomasi01], francescotomasi01@gmail.com  
 
-<!--
-**francescotomasi/francescotomasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Francesco Tomasi  
 
-Here are some ideas to get you started:
+🎓 **Mathematical Engineering student** at *Politecnico di Milano*.  
+💻 **Skills**: Python | R | C++ | HTML/CSS | Machine Learning  
+🚀 **Interests**: Mathematical Modeling, Non-linear Systems, and Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Tools  
+Here are some of the technologies I work with:  
+
+- **Languages**: Python, R, C++, HTML/CSS  
+- **Machine Learning**: TensorFlow, Keras  
+- **Tools**: Git, GitHub, Jupyter Notebook  
+
+---
+
+### 🌟 Featured Projects  
+
+- [Blood Cell Classification](https://github.com/francescotomasi/blood-cell-classification) - A CNN model for blood cell image classification.  
+- [Fiber Optic Sales Prediction](https://github.com/francescotomasi/fiber-optic-sales-prediction) - Time-varying non-linear sales prediction model.  
+
+---
+
+### 📈 GitHub Stats  
+
+![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescotomasi&show_icons=true&theme=dracula)  
+
+---
+
+### 📫 Connect with Me  
+
+- LinkedIn: [LinkedIn][http://www.linkedin.com/in/francescotomasi01]
+- Email: francescotomasi01@gmail.com  
+
