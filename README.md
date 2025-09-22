@@ -17,15 +17,17 @@ Here are some of the technologies I work with:
 
 ### 🌟 Featured Projects  
 
-- [Blood Cell Classification](https://github.com/francescotomasi/artificial-neural-network-projects/) - A CNN model for blood cell image classification.  
-- [Fiber Optic Sales Prediction](https://github.com/Zenopera/MMM_Bayesian_Project) - Time-varying non-linear sales prediction model.  
-
+- [Blood Cell Classification](https://github.com/francescotomasi/artificial-neural-network-projects/) - A CNN model for blood cell image classification and a semantic segmentation task for Mars terrain.  
+- [Fiber Optic Sales Prediction](https://github.com/Zenopera/MMM_Bayesian_Project) - Time-varying non-linear sales prediction model.
+- [Development of a web site](https://github.com/bohanh/HYP) - Developing a no-profit website for helping women in difficulty.
+- [Detecting Prostate Cancer](https://github.com/francescotomasi/Applied-Statistics) - Comparing the efficacy of two tracers used in PET/CT imaging for the management of prostate cancer
+  
 ---
 
-### 📈 GitHub Stats  
+### 🥷🏼 Solo Projects  
 
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescotomasi&show_icons=true&theme=dracula)  
-
+- [Tasks for PACS course in C++](https://github.com/francescotomasi/Advanced-Programming-For-Scientific-Computing) - Implemented numerical algorithms in C++, including a gradient descent optimizer, a sparse matrix representation, and a parallel Jacobi solver for linear systems.
+  
 ---
 
 ### 📫 Connect with Me  
