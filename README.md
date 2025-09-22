@@ -18,7 +18,7 @@ Here are some of the technologies I work with:
 ### 🌟 Featured Projects  
 
 - [Blood Cell Classification](https://github.com/francescotomasi/blood-cell-classification) - A CNN model for blood cell image classification.  
-- [Fiber Optic Sales Prediction](https://github.com/francescotomasi/fiber-optic-sales-prediction) - Time-varying non-linear sales prediction model.  
+- [Fiber Optic Sales Prediction](https://github.com/Zenopera/MMM_Bayesian_Project) - Time-varying non-linear sales prediction model.  
 
 ---
 
