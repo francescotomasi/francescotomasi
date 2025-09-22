@@ -17,10 +17,10 @@ Here are some of the technologies I work with:
 
 ### 🌟 Featured Projects  
 
-- [Blood Cell Classification](https://github.com/francescotomasi/artificial-neural-network-projects/) - A CNN model for blood cell image classification and a semantic segmentation task for Mars terrain.  
-- [Fiber Optic Sales Prediction](https://github.com/Zenopera/MMM_Bayesian_Project) - Time-varying non-linear sales prediction model.
-- [Development of a web site](https://github.com/bohanh/HYP) - Developing a no-profit website for helping women in difficulty.
-- [Detecting Prostate Cancer](https://github.com/francescotomasi/Applied-Statistics) - Comparing the efficacy of two tracers used in PET/CT imaging for the management of prostate cancer
+- [Blood Cell & Mars Terrain Analysis](https://github.com/francescotomasi/artificial-neural-network-projects/) - Developed a CNN for multi-class classification of blood cell images and a U-Net model for semantic segmentation of Martian terrain.  
+- [Bayesian Sales Prediction Model](https://github.com/Zenopera/MMM_Bayesian_Project) - Built a Bayesian Marketing Mix Model (MMM) to predict fiber optic sales with time-varying, non-linear components.
+- [Non-Profit Web Platform](https://github.com/bohanh/HYP) - Contributed to a non-profit web platform designed to support women in need, focusing on [Your specific contribution].
+- [Prostate Cancer Imaging Analysis](https://github.com/francescotomasi/Applied-Statistics) - Performed a statistical analysis to compare the efficacy of two PET/CT tracers for prostate cancer detection and management.
   
 ---
 
